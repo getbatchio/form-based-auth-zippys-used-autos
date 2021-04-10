@@ -1,3 +1,5 @@
+<?php require('util/valid_admin.php'); 
+?>
 <!DOCTYPE html>
 <html>
 
