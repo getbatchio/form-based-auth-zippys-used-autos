@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php require('view/header.php'); ?>
 
 <h2 class="text-primary">Register a new admin user</h2>
 
@@ -31,4 +31,4 @@
     </div>
 </form>
 
-<?php include('footer.php'); ?>
+<?php require('view/footer.php'); ?>
