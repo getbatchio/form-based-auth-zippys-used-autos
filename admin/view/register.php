@@ -2,13 +2,7 @@
 
 <h2 class="text-primary">Register a new admin user</h2>
 
-<?php if (isset($errors)) { ?>
-<ul class="fw-bold">
-    <?php foreach ($errors as $error) { ?>
-        <li class="text-danger"><?= $error ?></li>
-    <?php } ?>
-</ul>
-<?php } ?>
+
 
 <form action="." method="POST" class="add_form">
     <div class="container">
