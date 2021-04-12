@@ -1,4 +1,4 @@
-<?php include('view/header.php'); ?>
+<?php include('../admin/view/header.php'); ?>
 
 <h2 class="text-primary">Register a new admin user</h2>
 
@@ -31,4 +31,4 @@
     </div>
 </form>
 
-<?php include('view/footer.php'); ?>
+<?php include('../admin/view/footer.php'); ?>
